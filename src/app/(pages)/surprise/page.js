@@ -7,7 +7,7 @@ import Lovebutton from '@/app/_components/Lovebutton';
 import SplitText from '@/app/_components/SplitText';
 
 const pickupLines = [
-  "Are you a candle? Because you just lit up another amazing year! ",
+  "Are you a candle? Because you just light up another amazing year! ",
   " Are you the cake? Because you just made this day a whole lot sweeter!",
   " Are you aging like fine wine? Because you’re only getting better with time!",
   "Are you a gift? Because you’re the best thing this day has to offer!",
