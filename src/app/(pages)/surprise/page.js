@@ -29,7 +29,7 @@ const Page = () => {
       setLineIndex((prevIndex) => prevIndex + 1);
     } else {
       // Redirect to an external HTML page
-      window.location.href = '/slider/msg/index.html'; // Change this to your actual file path
+      window.location.href = '/slider/index.html'; // Change this to your actual file path
     }
   };
 
